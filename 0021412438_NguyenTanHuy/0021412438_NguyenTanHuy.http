@@ -1,0 +1,6 @@
+@_0021412438_NguyenTanHuy_HostAddress = http://localhost:5140
+
+GET {{_0021412438_NguyenTanHuy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
